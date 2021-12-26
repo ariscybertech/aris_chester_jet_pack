@@ -1,0 +1,24 @@
+Video 39:
+- Enhance the background music to pause when game is minimized
+- Fix the explosion to be centered on the asset's center
+
+
+
+Mechanisms:
+- Implement environment music (such as collect coin or explode bomb).
+
+
+Screens:
+- ScoreScreen:
+    - Enhance the graphics of this screen (e.g. redesign).
+- PlayScreen
+    - Pause button
+        - End game
+        - Disable/Enable Music
+- Menu Screen
+    - Add a button to share the game to your friends
+- Rate the app screen
+- Follow us screen
+- About screen
+
+
